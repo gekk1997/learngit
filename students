@@ -1,0 +1,6 @@
+class Students():
+    def __init__(self,grade,score):
+        self.grade = grade
+        self.score = score
+        
+    
